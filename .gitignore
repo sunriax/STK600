@@ -1,7 +1,7 @@
 # Project Files
-*.cproj
-*.atsln
-*.xml
+!*.cproj
+!*.atsln
+!*.xml
 
 # Object files
 *.o
